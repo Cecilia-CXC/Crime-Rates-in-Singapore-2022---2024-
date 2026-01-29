@@ -12,7 +12,7 @@ This project involves using python code to transform and analyse Crime Rate data
 # How to run the project 
 
 1. Open the notebook in Google Colab:
-   - Upload `SG Waste Management.ipynb` to Colab  
+   - Upload `SG Crime Rates (2020-2024).ipynb` to Colab  
 
 2. Upload the downloaded dataset from repository into Colab 
 
